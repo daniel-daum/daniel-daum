@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-daum
 - 👀 I’m interested in full-stack developement and automation with python
 - 🌱 I’m currently learning react, nodejs, postgreSQL, and express
-- 💞️ I’m am atteding Arizona State University for software engineering, I mainly use Java for school.
+- 💞️ I’m am atteding Arizona State University for software engineering
 <!-- - 📫 Reach me at daniel_daum@outlook.com -->
 
 <!---
