@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack developement and automation with python
 - 🌱 I’m currently learning react, nodejs, postgreSQL, and express
 - 💞️ I’m am atteding Arizona State University for software engineering, I mainly use Java for school.
-- 📫 Reach me at daniel_daum@outlook.com
+<!-- - 📫 Reach me at daniel_daum@outlook.com -->
 
 <!---
 daniel-daum/daniel-daum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
