@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel-daum
-- 👀 I’m interested in full-stack web developement and data analysis with python
-- 🌱 I’m learning react, nodejs, postgreSQL, and express
-- 💞️ I’m attending Arizona State University part-time for software engineering.
+- 👀 I’m interested in full-stack web developement and data engineering with python
+- 🌱 I’m currently learning react, nodejs, postgreSQL, and FastAPI.
+- 💞️ I’m  also a part-time software-engineering student at Arizona State University.
 <!-- - 📫 Reach me at daniel_daum@outlook.com -->
 
 <!---
