@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-daum, I'm a Data Engineer at Candor Technology.
-- 👀 I’m enjoy full-stack web developement and data engineering with python. 
+- 👀 I enjoy full-stack web developement and data engineering with python. 
 - 💞️ I’m  also a part-time software engineering student at Arizona State University.
 <!-- - 📫 Reach me at daniel_daum@outlook.com -->
 
