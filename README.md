@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Daum</h1>
-<h3 align="center">A software engineer, passionate about data</h3>
+Hi 👋, I'm Daniel Daum
+I'm a software engineer that is passionate about data
 
 - 👨‍💻 I’m a part-time software engineering student at Arizona State University.
 - ⚡ I enjoy full-stack web developement and data engineering with python.
