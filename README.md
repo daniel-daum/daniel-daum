@@ -1,7 +1,6 @@
 Hi 👋, I'm Daniel Daum
 
-I'm a software engineer that is passionate about data
+I'm a software engineer who is passionate about data.
 
-- ⚡ I enjoy full-stack web developement and data engineering with python.
-- 👨‍💻 I’m a part-time software engineering student at Arizona State University.
-- 🌱 I’m currently test driving **rust** and **Go**. 
+- ⚡ I enjoy full-stack web development and data engineering with Python.
+- 🌱 Currently test driving **Go**. 
